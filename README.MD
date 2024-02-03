@@ -1,3 +1,8 @@
+
+<div>
+  Follow me on all my socials!
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucassimpson0213&label=Profile%20views&color=0e75b6&style=flat" alt="lucassimpson0213" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucassimpson0213&theme=" alt="lucassimpson0213" /></a> </p>
