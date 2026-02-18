@@ -1,38 +1,65 @@
 # Lucas Simpson
 
-Systems programming in Rust — building an operating system and its userland foundations.
+Systems programming in Rust — building an operating system and the userland foundations that make it possible.
 
 ---
 
-## Start Here
+## 🧠 Core Systems (start here)
 
-* **kernel** — the OS itself
-* **libvert** — verified low-level primitives (parsers, allocators, data structures)
-* **scratch** — experiments and learning
+* [sys-userland-kernel-rust](https://github.com/lucassimpson0213/sys-userland-kernel-rust) — kernel-adjacent userland primitives
+* [os_dev_reorg](https://github.com/lucassimpson0213/os_dev_reorg) — OS development work & restructuring
+* [os_dev](https://github.com/lucassimpson0213/os_dev) — earlier OS experiments
+* [heap_allocator](https://github.com/lucassimpson0213/heap_allocator) — allocator work
+* [kernel-bit-decoder](https://github.com/lucassimpson0213/kernel-bit-decoder) — bit-level kernel decoding experiments
 
 ---
 
-## What I’m Working On
+## 🔬 Experiments & Low-Level Learning
 
-* memory map parsing (Multiboot)
-* allocators (bump → slab)
-* virtual memory concepts
-* unsafe Rust reasoning & invariants
+* [Ring-Buffer](https://github.com/lucassimpson0213/Ring-Buffer)
+* [go-worker-pool](https://github.com/lucassimpson0213/go-worker-pool)
+* [open-ai-gym](https://github.com/lucassimpson0213/open-ai-gym)
+* [leetcode](https://github.com/lucassimpson0213/leetcode)
+* [RSAJAVA](https://github.com/lucassimpson0213/RSAJAVA)
+
+---
+
+## 🛠 Tooling & Environment
+
+* [sys-qemu-homelab](https://github.com/lucassimpson0213/sys-qemu-homelab) — local systems lab
+* [nvim-config](https://github.com/lucassimpson0213/nvim-config)
+* [dotfiles](https://github.com/lucassimpson0213/dotfiles)
+* [bash-scripts](https://github.com/lucassimpson0213/bash-scripts)
+* [scriptable](https://github.com/lucassimpson0213/scriptable)
+* [gymbot](https://github.com/lucassimpson0213/gymbot)
+
+---
+
+## 📚 Documentation & Knowledge
+
+* [notes-repo](https://github.com/lucassimpson0213/notes-repo)
+* [notes-blog](https://github.com/lucassimpson0213/notes-blog)
+* [mdbook-rustvisualizer-notes](https://github.com/lucassimpson0213/mdbook-rustvisualizer-notes)
+* [note-indexer](https://github.com/lucassimpson0213/note-indexer)
+* [My-Work](https://github.com/lucassimpson0213/My-Work)
+
+---
+
+## 🌐 Web / Cloud / Past Work
+
+* [s3-sqs-ddb](https://github.com/lucassimpson0213/s3-sqs-ddb)
+* [amplify-frontend](https://github.com/lucassimpson0213/amplify-frontend)
+* [amplify-vue-template](https://github.com/lucassimpson0213/amplify-vue-template)
+* [multi-region-url-shortener](https://github.com/lucassimpson0213/multi-region-url-shortener)
+* [Developer-portfolio](https://github.com/lucassimpson0213/Developer-portfolio)
+* [Full-Stack-Frontend-Project](https://github.com/lucassimpson0213/Full-Stack-Frontend-Project)
 
 ---
 
 ## How I Work
 
-* tests always running on save
-* document invariants next to unsafe
-* keep tooling minimal
+* tests running constantly
+* document invariants next to `unsafe`
+* minimal tooling, maximal understanding
 
----
-
-## Topics I Care About
-
-Rust • operating systems • memory management • debugging undefined behavior • computer architecture
-
----
-
-Pinned repos are the entry point.
+Pinned repositories are the intended entry point into the system.
