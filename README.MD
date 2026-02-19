@@ -1,29 +1,39 @@
-# Lucas Simpson
- 🦀 
+# Lucas Simpson 🦀
 
-## Start here
- 💻 [os-dev — main OS development](https://github.com/lucassimpson0213/os_dev_reorg)
+> Systems programming in Rust — building a small operating system, its userland, and the tooling used to run and understand it.
 
 ---
 
-## The system
+## 🚀 Start Here
+> The central integration point where boot, memory, and execution come together.
 
-### Kernel
-- [os-dev](https://github.com/lucassimpson0213/os_dev_reorg)
-- [userland support libraries](https://github.com/lucassimpson0213/sys-userland-kernel-rust)
-
-### Laboratory (how it runs)
-- [qemu homelab runner](https://github.com/lucassimpson0213/sys-qemu-homelab)
-
-### Understanding (how I learn from it)
-- [Notes blog](https://lucassimpson0213.github.io/notes-blog/)
+### 💻 **[os-dev — main OS development](https://github.com/lucassimpson0213/os_dev_reorg)**
 
 ---
 
-### Active work
-- [Open tasks & investigations](https://github.com/lucassimpson0213/ideas/issues)
+## 🧩 The System
+
+| Area | Purpose | Link |
+|------|------|------|
+| **Kernel** | Core OS and low-level work | [os-dev](https://github.com/lucassimpson0213/os_dev_reorg) |
+| **Userland** | Kernel support libraries & primitives | [userland support libraries](https://github.com/lucassimpson0213/sys-userland-kernel-rust) |
+| **Laboratory** | How the OS boots and runs locally | [qemu homelab runner](https://github.com/lucassimpson0213/sys-qemu-homelab) |
+| **Understanding** | Notes and explanations | [Notes blog](https://lucassimpson0213.github.io/notes-blog/) |
 
 ---
 
-### Development process
-- [process.md](https://github.com/lucassimpson0213/ideas/blob/main/process.md)
+## 🔧 Active Work
+Current tasks, investigations, and problems being solved:
+
+→ **[Open tasks & investigations](https://github.com/lucassimpson0213/ideas/issues)**
+
+---
+
+## 🧠 Working Method
+How development is tracked and documented:
+
+→ **[process.md](https://github.com/lucassimpson0213/ideas/blob/main/process.md)**
+
+---
+
+> *The goal is not only to make the system work, but to understand why it works.*
