@@ -7,29 +7,26 @@ This GitHub is one continuous project: a small computing environment built from 
 ---
 
 ## Start here
-➡ https://github.com/lucassimpson0213/os_dev_reorg
-
-This is the main OS development work.
+➡ [os_dev_reorg — main OS development](https://github.com/lucassimpson0213/os_dev_reorg)
 
 ---
 
 ## The system
 
-**Kernel**
-- https://github.com/lucassimpson0213/os_dev_reorg
-- https://github.com/lucassimpson0213/heap_allocator
+### Kernel
+- [os_dev_reorg](https://github.com/lucassimpson0213/os_dev_reorg)
+- [heap_allocator](https://github.com/lucassimpson0213/heap_allocator)
 
-**Laboratory (how it runs)**
-- https://github.com/lucassimpson0213/sys-qemu-homelab
+### Laboratory (how it runs)
+- [sys-qemu-homelab](https://github.com/lucassimpson0213/sys-qemu-homelab)
 
-**Understanding (how I learn from it)**
-- https://lucassimpson0213.github.io/notes-blog/
+### Understanding (how I learn from it)
+- [Notes blog](https://lucassimpson0213.github.io/notes-blog/)
 
 ---
 
 ## Active work
-Tasks and investigations:
-https://github.com/lucassimpson0213/ideas/issues
+- [Open tasks & investigations](https://github.com/lucassimpson0213/ideas/issues)
 
 ---
 
