@@ -7,14 +7,14 @@ This GitHub is one continuous project: a small computing environment built from 
 ---
 
 ## Start here
-➡ [os_dev_reorg — main OS development](https://github.com/lucassimpson0213/os_dev_reorg)
+➡ [os-dev — main OS development](https://github.com/lucassimpson0213/os_dev_reorg)
 
 ---
 
 ## The system
 
 ### Kernel
-- [os_dev_reorg](https://github.com/lucassimpson0213/os_dev_reorg)
+- [os-dev](https://github.com/lucassimpson0213/os_dev_reorg)
 - [userland support libraries](https://github.com/lucassimpson0213/sys-userland-kernel-rust)
 
 ### Laboratory (how it runs)
