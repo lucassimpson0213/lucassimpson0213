@@ -32,7 +32,7 @@ Current tasks, investigations, and problems being solved:
 ## 🧠 Working Method
 How development is tracked and documented:
 
-- **[process.md](https://github.com/lucassimpson0213/ideas/blob/main/process.md)**
+- **[process](https://github.com/lucassimpson0213/ideas/blob/main/process.md)**
 - **[development workflow](Cont.md)**
 ---
 
