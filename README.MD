@@ -8,7 +8,7 @@ Systems programming in Rust — building an operating system and the userland fo
 # Ideas 
 - https://github.com/lucassimpson0213/ideas
 # Process
-- https://github.com/lucassimpson0213/ideas/process.md
+- https://github.com/lucassimpson0213/ideas/blob/main/process.md
 ## 🧠 Core Systems (start here)
 
 * [sys-userland-kernel-rust](https://github.com/lucassimpson0213/sys-userland-kernel-rust) — kernel-adjacent userland primitives
