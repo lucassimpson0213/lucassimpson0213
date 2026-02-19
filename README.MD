@@ -1,5 +1,5 @@
 # Lucas Simpson
-- I like Rust 
+ 🦀 
 
 ## Start here
  💻 [os-dev — main OS development](https://github.com/lucassimpson0213/os_dev_reorg)
