@@ -30,8 +30,6 @@ This GitHub is one continuous project: a small computing environment built from 
 
 ---
 
-## How I work
-- tests always running
-- document invariants near `unsafe`
-- minimal tooling, maximal understanding
-- build tools I can depend on
+## Development process
+How work is tracked and documented:
+- [process.md](https://github.com/lucassimpson0213/ideas/blob/main/process.md)
