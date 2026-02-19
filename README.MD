@@ -1,10 +1,5 @@
 # Lucas Simpson
-
-I build systems software in Rust — an operating system, its userland primitives, and the tooling needed to run and understand it.
-
-This GitHub is one continuous project: a small computing environment built from the hardware up.
-
----
+- I like Rust 
 
 ## Start here
  💻 [os-dev — main OS development](https://github.com/lucassimpson0213/os_dev_reorg)
