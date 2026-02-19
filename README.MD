@@ -7,7 +7,7 @@ This GitHub is one continuous project: a small computing environment built from 
 ---
 
 ## Start here
- 💻[os-dev — main OS development](https://github.com/lucassimpson0213/os_dev_reorg)
+ 💻 [os-dev — main OS development](https://github.com/lucassimpson0213/os_dev_reorg)
 
 ---
 
