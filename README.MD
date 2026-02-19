@@ -26,5 +26,4 @@
 ---
 
 ### Development process
-How work is tracked and documented:
 - [process.md](https://github.com/lucassimpson0213/ideas/blob/main/process.md)
