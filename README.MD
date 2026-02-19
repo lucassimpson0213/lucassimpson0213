@@ -3,11 +3,11 @@
 Systems programming in Rust — building an operating system and the userland foundations that make it possible.
 
 ---
-# Blog
+## Blog
 - https://lucassimpson0213.github.io/notes-blog/
-# Ideas 
+## Ideas 
 - https://github.com/lucassimpson0213/ideas
-# Process
+## Process
 - https://github.com/lucassimpson0213/ideas/blob/main/process.md
 ## 🧠 Core Systems (start here)
 
