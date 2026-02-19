@@ -15,10 +15,10 @@ This GitHub is one continuous project: a small computing environment built from 
 
 ### Kernel
 - [os_dev_reorg](https://github.com/lucassimpson0213/os_dev_reorg)
-- [heap_allocator](https://github.com/lucassimpson0213/heap_allocator)
+- [userland support libraries](https://github.com/lucassimpson0213/sys-userland-kernel-rust)
 
 ### Laboratory (how it runs)
-- [sys-qemu-homelab](https://github.com/lucassimpson0213/sys-qemu-homelab)
+- [qemu homelab runner](https://github.com/lucassimpson0213/sys-qemu-homelab)
 
 ### Understanding (how I learn from it)
 - [Notes blog](https://lucassimpson0213.github.io/notes-blog/)
