@@ -7,6 +7,8 @@ Systems programming in Rust — building an operating system and the userland fo
 - https://lucassimpson0213.github.io/notes-blog/
 # Ideas 
 - https://github.com/lucassimpson0213/ideas
+# Process
+- https://github.com/lucassimpson0213/ideas/process.md
 ## 🧠 Core Systems (start here)
 
 * [sys-userland-kernel-rust](https://github.com/lucassimpson0213/sys-userland-kernel-rust) — kernel-adjacent userland primitives
@@ -24,6 +26,7 @@ Systems programming in Rust — building an operating system and the userland fo
 * [open-ai-gym](https://github.com/lucassimpson0213/open-ai-gym)
 * [leetcode](https://github.com/lucassimpson0213/leetcode)
 * [RSAJAVA](https://github.com/lucassimpson0213/RSAJAVA)
+
 
 ---
 
