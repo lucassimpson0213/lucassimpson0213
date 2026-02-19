@@ -10,7 +10,7 @@ Systems programming in Rust — building an operating system and the userland fo
 ## Process
 - https://github.com/lucassimpson0213/ideas/blob/main/process.md
 ## Current Projects being worked on
--https://github.com/lucassimpson0213?tab=projects
+- https://github.com/lucassimpson0213?tab=projects
 
 
 ## 🧠 Core Systems (start here)
