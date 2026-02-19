@@ -33,7 +33,8 @@ Current tasks, investigations, and problems being solved:
 How development is tracked and documented:
 
 → **[process.md](https://github.com/lucassimpson0213/ideas/blob/main/process.md)**
-
+ and this is a sample contributing md
+See [development workflow](https://lucassimpson0213/ideas/CONTRIBUTING.md).
 ---
 
 > *The goal is not only to make the system work, but to understand why it works.*
