@@ -29,7 +29,7 @@ Systems programming in Rust — building an operating system and the userland fo
 * [go-worker-pool](https://github.com/lucassimpson0213/go-worker-pool)
 * [open-ai-gym](https://github.com/lucassimpson0213/open-ai-gym)
 * [leetcode](https://github.com/lucassimpson0213/leetcode)
-* [RSAJAVA](https://github.com/lucassimpson0213/RSAJAVA)
+
 
 
 ---
@@ -40,7 +40,6 @@ Systems programming in Rust — building an operating system and the userland fo
 * [nvim-config](https://github.com/lucassimpson0213/nvim-config)
 * [dotfiles](https://github.com/lucassimpson0213/dotfiles)
 * [bash-scripts](https://github.com/lucassimpson0213/bash-scripts)
-* [scriptable](https://github.com/lucassimpson0213/scriptable)
 * [gymbot](https://github.com/lucassimpson0213/gymbot)
 
 ---
@@ -51,15 +50,13 @@ Systems programming in Rust — building an operating system and the userland fo
 * [notes-blog](https://github.com/lucassimpson0213/notes-blog)
 * [mdbook-rustvisualizer-notes](https://github.com/lucassimpson0213/mdbook-rustvisualizer-notes)
 * [note-indexer](https://github.com/lucassimpson0213/note-indexer)
-* [My-Work](https://github.com/lucassimpson0213/My-Work)
+
 
 ---
 
 ## 🌐 Web / Cloud / Past Work
 
 * [s3-sqs-ddb](https://github.com/lucassimpson0213/s3-sqs-ddb)
-* [amplify-frontend](https://github.com/lucassimpson0213/amplify-frontend)
-* [amplify-vue-template](https://github.com/lucassimpson0213/amplify-vue-template)
 * [multi-region-url-shortener](https://github.com/lucassimpson0213/multi-region-url-shortener)
 * [Developer-portfolio](https://github.com/lucassimpson0213/Developer-portfolio)
 * [Full-Stack-Frontend-Project](https://github.com/lucassimpson0213/Full-Stack-Frontend-Project)
