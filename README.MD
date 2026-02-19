@@ -1,72 +1,74 @@
 # Lucas Simpson
 
-Systems programming in Rust — building an operating system and the userland foundations that make it possible.
+I build systems software in Rust — an operating system, its userland foundations, and the tooling and lab environment around it.
+
+This GitHub is not a collection of projects.  
+It is a single evolving system.
 
 ---
-## Blog
+
+## Start Here
+
+If you only open one repository:
+
+➡ https://github.com/lucassimpson0213/os_dev_reorg
+
+This is the central OS development work.
+
+---
+
+## The System (read in this order)
+
+### 1. The Kernel
+Low-level OS and memory work.
+
+- https://github.com/lucassimpson0213/os_dev_reorg
+- https://github.com/lucassimpson0213/sys-userland-kernel-rust
+- https://github.com/lucassimpson0213/heap_allocator
+
+### 2. The Laboratory
+Infrastructure used to run and test the OS.
+
+- https://github.com/lucassimpson0213/sys-qemu-homelab
+
+### 3. The Tooling
+Environment and utilities that support development.
+
+- https://github.com/lucassimpson0213/nvim-config
+- https://github.com/lucassimpson0213/dotfiles
+
+### 4. Understanding & Documentation
+Where I turn debugging into knowledge.
+
+- https://github.com/lucassimpson0213/notes-repo
 - https://lucassimpson0213.github.io/notes-blog/
-## Ideas 
+
+---
+
+## Current Work
+
+Active tasks and planning live here:
 - https://github.com/lucassimpson0213/ideas/issues
-## Process
+
+Development process:
 - https://github.com/lucassimpson0213/ideas/blob/main/process.md
-## Current Projects being worked on
-- https://github.com/lucassimpson0213?tab=projects
-
-
-## 🧠 Core Systems (start here)
-
-* [sys-userland-kernel-rust](https://github.com/lucassimpson0213/sys-userland-kernel-rust) — kernel-adjacent userland primitives
-* [os_dev_reorg](https://github.com/lucassimpson0213/os_dev_reorg) — OS development work & restructuring
-* [os_dev](https://github.com/lucassimpson0213/os_dev) — earlier OS experiments
-* [heap_allocator](https://github.com/lucassimpson0213/heap_allocator) — allocator work
-* [kernel-bit-decoder](https://github.com/lucassimpson0213/kernel-bit-decoder) — bit-level kernel decoding experiments
 
 ---
 
-## 🔬 Experiments & Low-Level Learning
+## Other Work
 
-* [Ring-Buffer](https://github.com/lucassimpson0213/Ring-Buffer)
-* [go-worker-pool](https://github.com/lucassimpson0213/go-worker-pool)
-* [open-ai-gym](https://github.com/lucassimpson0213/open-ai-gym)
-* [leetcode](https://github.com/lucassimpson0213/leetcode)
+Distributed systems and cloud experiments:
 
-
-
----
-
-## 🛠 Tooling & Environment
-
-* [sys-qemu-homelab](https://github.com/lucassimpson0213/sys-qemu-homelab) — local systems lab
-* [nvim-config](https://github.com/lucassimpson0213/nvim-config)
-* [dotfiles](https://github.com/lucassimpson0213/dotfiles)
-* [bash-scripts](https://github.com/lucassimpson0213/bash-scripts)
-* [gymbot](https://github.com/lucassimpson0213/gymbot)
-
----
-
-## 📚 Documentation & Knowledge
-
-* [notes-repo](https://github.com/lucassimpson0213/notes-repo)
-* [notes-blog](https://github.com/lucassimpson0213/notes-blog)
-* [mdbook-rustvisualizer-notes](https://github.com/lucassimpson0213/mdbook-rustvisualizer-notes)
-* [note-indexer](https://github.com/lucassimpson0213/note-indexer)
-
-
----
-
-## 🌐 Web / Cloud / Past Work
-
-* [s3-sqs-ddb](https://github.com/lucassimpson0213/s3-sqs-ddb)
-* [multi-region-url-shortener](https://github.com/lucassimpson0213/multi-region-url-shortener)
-* [Developer-portfolio](https://github.com/lucassimpson0213/Developer-portfolio)
-* [Full-Stack-Frontend-Project](https://github.com/lucassimpson0213/Full-Stack-Frontend-Project)
+- https://github.com/lucassimpson0213/s3-sqs-ddb
+- https://github.com/lucassimpson0213/multi-region-url-shortener
 
 ---
 
 ## How I Work
 
-* tests running constantly
-* document invariants next to `unsafe`
-* minimal tooling, maximal understanding
+- Tests running constantly
+- Document invariants next to `unsafe`
+- Prefer understanding over abstraction
+- Build tools I can depend on
 
-Pinned repositories are the intended entry point into the system.
+Pinned repositories are the curated entry points.
