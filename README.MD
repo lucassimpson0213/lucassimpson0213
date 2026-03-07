@@ -8,7 +8,7 @@
 > The central integration point where boot, memory, and execution come together.
 
 ### 💻 **[os-dev — main OS development](https://github.com/lucassimpson0213/os_dev_reorg)**
-
+### current plan - https://simpson-systems.github.io/Systems-Plan ###
 ---
 
 ## 🧩 The System
