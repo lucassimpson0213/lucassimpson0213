@@ -1,4 +1,4 @@
-# Lucas Simpson 🦀
+# Lucas Simpson 🦀 --- reminder to filter by public repos only
 
 > Systems programming in Rust — building a small operating system, its userland, and the tooling used to run and understand it.
 
