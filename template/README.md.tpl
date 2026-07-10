@@ -1,30 +1,39 @@
 # Lucas Simpson
 
-## Recent Contributions
+ AWS • Kubernetes • Rust • Go • Linux
 
-{{ range recentContributions 10 }}
-- {{ .Repo.URL }} — {{ humanize .OccurredAt }}{{ if .Repo.Description }}
-  - {{ .Repo.Description }}{{ end }}
+## Currently Exploring
+
+- Kubernetes with KIND
+- AWS infrastructure automation
+- Rust CLI tooling
+- Bash automation and Linux internals
+- Observability and platform engineering
+
+## Recent Projects
+
+{{ range recentRepos 10 }}
+### {{ .URL }}
+{{- if .Description }}
+{{ .Description }}
+{{- else }}
+_No description provided._
+{{- end }}
+
 {{ end }}
 
 ## Recent Pull Requests
 
-{{ range recentPullRequests 10 }}
-- {{ .URL }} — `{{ .State }}` on {{ .Repo.URL }} · {{ humanize .CreatedAt }}
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) · `{{ .Stateze .CreatedAt }}
 {{ end }}
 
-## Recently Created Repositories
+## Recent Contributions
 
-{{ range recentRepos 10 }}
-- {{ .URL }}{{ if .Description }} — {{ .Description }}{{ end }}
-{{ end }}
-
-## Recent Releases Contributed To
-
-{{ range recentReleases 10 }}
-- {{ .LastRelease.URL }} — `{{ .LastRelease.TagName }}` · {{ humanize .LastRelease.PublishedAt }}
+{{ range recentContributions 5 }}
+- **{{ .Repo.Name }}** · {{ humanize .OccurredAt }}
 {{ end }}
 
 ---
 
-_Last updated automatically by GitHub Actions._
+*This README is automatically generated via GitHub Actions.*
