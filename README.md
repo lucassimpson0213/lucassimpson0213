@@ -3,7 +3,6 @@
 
 AWS • Kubernetes • Rust • Go • Linux
 
-#### 👷 Check out what I'm currently working on
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)
