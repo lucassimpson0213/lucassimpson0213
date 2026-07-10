@@ -25,7 +25,7 @@ _No description provided._
 ## Recent Pull Requests
 
 {{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) · {{ .Stateze .CreatedAt }}
+- [{{ .Title }}]({{ .URL }}) · {{ .State .CreatedAt }}
 {{ end }}
 
 ## Recent Contributions
