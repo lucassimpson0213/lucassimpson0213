@@ -1,21 +1,24 @@
+
 # Lucas Simpson
 
 AWS • Kubernetes • Rust • Go • Linux
 
-## Recent Projects
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
 
-{{ range recentRepos 10 }}
-- **{{ .Name }}**
-{{- if .Description }}
-  - {{ .Description }}
-{{- end }}
-{{ end }}
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
 
-## Recent Contributions
+#### 🌱 My latest projects
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
 
-{{ range recentContributions 10 }}
-- **{{ .Repo.Name }}** · {{ humanize .OccurredAt }}
-{{ end }}
+
 
 ---
 
