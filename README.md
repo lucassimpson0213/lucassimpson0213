@@ -3,12 +3,7 @@
 
 AWS • Kubernetes • Rust • Go • Linux
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
-
+#### 👷 Check out what I'm currently working on
 
 - [lucassimpson0213/source-code-tooling](https://github.com/lucassimpson0213/source-code-tooling) - uses markers to replace certain rust code with pascalized verisons of them (today)
 - [lucassimpson0213/kind-kubernetes](https://github.com/lucassimpson0213/kind-kubernetes) -  (today)
