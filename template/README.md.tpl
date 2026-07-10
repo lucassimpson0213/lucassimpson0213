@@ -5,24 +5,18 @@ AWS • Kubernetes • Rust • Go • Linux
 ## Recent Projects
 
 {{ range recentRepos 10 }}
-- {{ .Name }}
-  {{- if .Description }}
+- **{{ .Name }}**
+{{- if .Description }}
   - {{ .Description }}
-  {{- end }}
-{{ end }}
-
-## Recent Pull Requests
-
-{{ range recentPullRequests 5 }}
-- {{ .URL }}
+{{- end }}
 {{ end }}
 
 ## Recent Contributions
 
-{{ range recentContributions 5 }}
-- {{ .Repo.Name }} · {{ humanize .OccurredAt }}
+{{ range recentContributions 10 }}
+- **{{ .Repo.Name }}** · {{ humanize .OccurredAt }}
 {{ end }}
 
 ---
 
-*Automatically generated with GitHub Actions*
+*Automatically generated via GitHub Actions*
