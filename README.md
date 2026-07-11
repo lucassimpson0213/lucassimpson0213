@@ -5,8 +5,8 @@ AWS • Kubernetes • Rust • Go • Linux
 
 #### 👷 Check out what I'm currently working on
 
-- [lucassimpson0213/source-code-tooling](https://github.com/lucassimpson0213/source-code-tooling) - uses markers to replace certain rust code with pascalized verisons of them (today)
-- [lucassimpson0213/kind-kubernetes](https://github.com/lucassimpson0213/kind-kubernetes) -  (today)
+- [lucassimpson0213/source-code-tooling](https://github.com/lucassimpson0213/source-code-tooling) - uses markers to replace certain rust code with pascalized verisons of them (1 day ago)
+- [lucassimpson0213/kind-kubernetes](https://github.com/lucassimpson0213/kind-kubernetes) -  (1 day ago)
 - [lucassimpson0213/hyprland](https://github.com/lucassimpson0213/hyprland) -  (2 weeks ago)
 - [lucassimpson0213/lox-interpreter](https://github.com/lucassimpson0213/lox-interpreter) -  (3 weeks ago)
 - [Simpson-Systems/hyprland](https://github.com/Simpson-Systems/hyprland) - configs for hyprland (3 weeks ago)
