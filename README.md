@@ -5,10 +5,10 @@ AWS • Kubernetes • Rust • Go • Linux
 
 #### 👷 Check out what I'm currently working on
 
-- [lucassimpson0213/source-code-tooling](https://github.com/lucassimpson0213/source-code-tooling) - uses markers to replace certain rust code with pascalized verisons of them (6 days ago)
-- [lucassimpson0213/kind-kubernetes](https://github.com/lucassimpson0213/kind-kubernetes) -  (6 days ago)
-- [lucassimpson0213/linux-userland-lab](https://github.com/lucassimpson0213/linux-userland-lab) - Bounded Queue implementation with Concurrency (6 days ago)
-- [lucassimpson0213/hyprland](https://github.com/lucassimpson0213/hyprland) -  (2 weeks ago)
+- [lucassimpson0213/source-code-tooling](https://github.com/lucassimpson0213/source-code-tooling) - uses markers to replace certain rust code with pascalized verisons of them (1 week ago)
+- [lucassimpson0213/kind-kubernetes](https://github.com/lucassimpson0213/kind-kubernetes) -  (1 week ago)
+- [lucassimpson0213/linux-userland-lab](https://github.com/lucassimpson0213/linux-userland-lab) - Bounded Queue implementation with Concurrency (1 week ago)
+- [lucassimpson0213/hyprland](https://github.com/lucassimpson0213/hyprland) -  (3 weeks ago)
 - [lucassimpson0213/lox-interpreter](https://github.com/lucassimpson0213/lox-interpreter) -  (4 weeks ago)
 - [Simpson-Systems/hyprland](https://github.com/Simpson-Systems/hyprland) - configs for hyprland (4 weeks ago)
 - [Simpson-Systems/minio-sync](https://github.com/Simpson-Systems/minio-sync) - mirroring script between two minio stores (3 months ago)
