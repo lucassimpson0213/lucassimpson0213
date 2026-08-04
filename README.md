@@ -13,7 +13,7 @@ AWS • Kubernetes • Rust • Go • Linux
 - [Simpson-Systems/hyprland](https://github.com/Simpson-Systems/hyprland) - configs for hyprland (1 month ago)
 - [Simpson-Systems/minio-sync](https://github.com/Simpson-Systems/minio-sync) - mirroring script between two minio stores (4 months ago)
 - [lucassimpson0213/nvim-config](https://github.com/lucassimpson0213/nvim-config) -  (4 months ago)
-- [Simpson-Systems/sys-userland-kernel-rust](https://github.com/Simpson-Systems/sys-userland-kernel-rust) - userland kernel work to practice for the real thing, raw memory parsing (4 months ago)
+- [Simpson-Systems/sys-userland-kernel-rust](https://github.com/Simpson-Systems/sys-userland-kernel-rust) - userland kernel work to practice for the real thing, raw memory parsing (5 months ago)
 - [Simpson-Systems/libvirt-cli](https://github.com/Simpson-Systems/libvirt-cli) - repo for the libvirt command line (5 months ago)
 
 #### 🌱 My latest projects
