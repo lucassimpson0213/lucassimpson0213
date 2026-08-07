@@ -5,9 +5,9 @@ AWS • Kubernetes • Rust • Go • Linux
 
 #### 👷 Check out what I'm currently working on
 
-- [lucassimpson0213/kind-kubernetes](https://github.com/lucassimpson0213/kind-kubernetes) -  (2 weeks ago)
-- [lucassimpson0213/source-code-tooling](https://github.com/lucassimpson0213/source-code-tooling) - uses markers to replace certain rust code with pascalized verisons of them (3 weeks ago)
-- [lucassimpson0213/linux-userland-lab](https://github.com/lucassimpson0213/linux-userland-lab) - Bounded Queue implementation with Concurrency (3 weeks ago)
+- [lucassimpson0213/kind-kubernetes](https://github.com/lucassimpson0213/kind-kubernetes) -  (3 weeks ago)
+- [lucassimpson0213/source-code-tooling](https://github.com/lucassimpson0213/source-code-tooling) - uses markers to replace certain rust code with pascalized verisons of them (4 weeks ago)
+- [lucassimpson0213/linux-userland-lab](https://github.com/lucassimpson0213/linux-userland-lab) - Bounded Queue implementation with Concurrency (4 weeks ago)
 - [lucassimpson0213/hyprland](https://github.com/lucassimpson0213/hyprland) -  (1 month ago)
 - [lucassimpson0213/lox-interpreter](https://github.com/lucassimpson0213/lox-interpreter) -  (1 month ago)
 - [Simpson-Systems/hyprland](https://github.com/Simpson-Systems/hyprland) - configs for hyprland (1 month ago)
