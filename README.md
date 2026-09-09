@@ -7,7 +7,7 @@ AWS • Kubernetes • Rust • Go • Linux
 ##### Networking
 -  CS144
 - HTTP Server
-- CCNA Official Cert Guide
+- Jeremy's IT Lab - https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
 - Homelab
 
 ###### References
