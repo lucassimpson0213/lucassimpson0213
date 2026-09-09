@@ -16,21 +16,21 @@ AWS • Kubernetes • Rust • Go • Linux
 - [Simpson-Systems/sys-userland-kernel-rust](https://github.com/Simpson-Systems/sys-userland-kernel-rust) - userland kernel work to practice for the real thing, raw memory parsing (5 months ago)
 - [Simpson-Systems/libvirt-cli](https://github.com/Simpson-Systems/libvirt-cli) - repo for the libvirt command line (5 months ago)
 
-My most current roadmap
-Networking
-├── CS144
-└── HTTP Server
+#### My most current roadmap
+##### Networking
+- ├── CS144
+- └── HTTP Server
 
-Systems
-├── OSDev
-└── x86 OS
+##### Systems
+-  OSDev
+-  x86 OS
 
-Distributed Systems / Databases
-├── PingCAP Talent Plan
-└── 6.5840
+##### Distributed Systems / Databases
+-  PingCAP Talent Plan
+-  6.5840
 
 Mathematics
-└── Foundation for all of the above
+-  Pauls online math notes
 
 
 ---
