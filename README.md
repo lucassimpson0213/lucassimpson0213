@@ -7,6 +7,7 @@ AWS • Kubernetes • Rust • Go • Linux
 ##### Networking
 -  CS144
 - HTTP Server
+- TCP/IP Illustrated
 
 ##### Systems
 -  OSDev
