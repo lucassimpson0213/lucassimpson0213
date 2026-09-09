@@ -9,6 +9,7 @@ AWS • Kubernetes • Rust • Go • Linux
 - HTTP Server
 - TCP/IP Illustrated
 - CCNA Official Cert Guide
+- TLPI networking chatpers
 - Homelab
 
 ##### Systems
