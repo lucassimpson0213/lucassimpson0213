@@ -7,10 +7,12 @@ AWS • Kubernetes • Rust • Go • Linux
 ##### Networking
 -  CS144
 - HTTP Server
-- TCP/IP Illustrated
 - CCNA Official Cert Guide
-- TLPI networking chatpers
 - Homelab
+
+###### References
+- TLPI Networking Chapters
+- TCP/IP Illustrated
 
 ##### Systems
 -  OSDev
