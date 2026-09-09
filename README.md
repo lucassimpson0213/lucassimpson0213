@@ -8,6 +8,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  CS144
 - HTTP Server
 - TCP/IP Illustrated
+- Homelab
 
 ##### Systems
 -  OSDev
