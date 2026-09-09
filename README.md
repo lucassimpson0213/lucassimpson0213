@@ -16,19 +16,21 @@ AWS • Kubernetes • Rust • Go • Linux
 - [Simpson-Systems/sys-userland-kernel-rust](https://github.com/Simpson-Systems/sys-userland-kernel-rust) - userland kernel work to practice for the real thing, raw memory parsing (5 months ago)
 - [Simpson-Systems/libvirt-cli](https://github.com/Simpson-Systems/libvirt-cli) - repo for the libvirt command line (5 months ago)
 
-#### 🌱 My latest projects
+My most current roadmap
+Networking
+├── CS144
+└── HTTP Server
 
-- [lucassimpson0213/kind-kubernetes](https://github.com/lucassimpson0213/kind-kubernetes) - 
-- [lucassimpson0213/homelab-dashboard](https://github.com/lucassimpson0213/homelab-dashboard) - 
-- [lucassimpson0213/source-code-tooling](https://github.com/lucassimpson0213/source-code-tooling) - uses markers to replace certain rust code with pascalized verisons of them
-- [lucassimpson0213/hyprland](https://github.com/lucassimpson0213/hyprland) - 
-- [lucassimpson0213/lox-interpreter](https://github.com/lucassimpson0213/lox-interpreter) - 
-- [lucassimpson0213/http-server-from-scratch](https://github.com/lucassimpson0213/http-server-from-scratch) - 
-- [lucassimpson0213/dotfiles](https://github.com/lucassimpson0213/dotfiles) - 
-- [lucassimpson0213/kernel-bit-decoder](https://github.com/lucassimpson0213/kernel-bit-decoder) - decoder
-- [lucassimpson0213/nvim-config](https://github.com/lucassimpson0213/nvim-config) - 
-- [lucassimpson0213/os_dev](https://github.com/lucassimpson0213/os_dev) - 
+Systems
+├── OSDev
+└── x86 OS
 
+Distributed Systems / Databases
+├── PingCAP Talent Plan
+└── 6.5840
+
+Mathematics
+└── Foundation for all of the above
 
 
 ---
