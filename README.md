@@ -12,6 +12,7 @@ AWS • Kubernetes • Rust • Go • Linux
 ##### Systems
 -  OSDev
 -  x86 OS
+-  Linux Userland TLPI
 
 ##### Distributed Systems / Databases
 -  PingCAP Talent Plan
