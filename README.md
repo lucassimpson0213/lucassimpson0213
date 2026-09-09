@@ -18,8 +18,8 @@ AWS • Kubernetes • Rust • Go • Linux
 
 #### My most current roadmap
 ##### Networking
-- ├── CS144
-- └── HTTP Server
+-  CS144
+- HTTP Server
 
 ##### Systems
 -  OSDev
@@ -29,7 +29,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  PingCAP Talent Plan
 -  6.5840
 
-Mathematics
+##### Mathematics
 -  Pauls online math notes
 
 
