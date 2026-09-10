@@ -13,6 +13,7 @@ AWS • Kubernetes • Rust • Go • Linux
 ###### References
 - TLPI Networking Chapters
 - TCP/IP Illustrated
+- files for jeremy's it labs - https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
 
 ##### Systems
 -  OSDev
