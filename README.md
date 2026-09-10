@@ -49,6 +49,14 @@ AWS • Kubernetes • Rust • Go • Linux
 -  6.5840
 
 
+---
+ <details>
+  <summary>Resources for Distributed Systems and Databases </summary>
+  https://pdos.csail.mit.edu/6.828/2021/labs/util.html
+</details>
+
+---
+
 
 ---
 #### 👷 Check out what I'm currently working on
