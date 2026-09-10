@@ -15,7 +15,8 @@ AWS • Kubernetes • Rust • Go • Linux
 -  Homelab
 
 
-
+<details>
+  <summary>References and Homelab items to consider </summary>
 ###### References
 - TLPI Networking Chapters
 - TCP/IP Illustrated
@@ -25,6 +26,7 @@ AWS • Kubernetes • Rust • Go • Linux
 - Kubernetes (k3s is fine)
 - Prometheus
 - Grafana
+ </details>
 
 ##### Systems
 -  Linux Userland TLPI
