@@ -21,7 +21,7 @@ AWS • Kubernetes • Rust • Go • Linux
 - TCP/IP Illustrated
 - files for jeremy's it labs - https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
 
-#######  Homelab specific items
+######  Homelab specific items
 - Kubernetes (k3s is fine)
 - Prometheus
 - Grafana
