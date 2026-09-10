@@ -40,7 +40,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  6.5840
 
 
-
+---
 #### 👷 Check out what I'm currently working on
 
 - [lucassimpson0213/kind-kubernetes](https://github.com/lucassimpson0213/kind-kubernetes) -  (3 weeks ago)
