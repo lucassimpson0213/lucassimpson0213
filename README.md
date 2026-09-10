@@ -4,10 +4,14 @@
 AWS • Kubernetes • Rust • Go • Linux
 
 #### My  Current Roadmap
+
+##### Mathematics
+-  Pauls Online Math Notes
+-  
 ##### Networking
--  CS144
-- HTTP Server
 - Jeremy's IT Lab - https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
+- HTTP Server
+-  CS144
 - Homelab
 
 ###### References
@@ -16,16 +20,15 @@ AWS • Kubernetes • Rust • Go • Linux
 - files for jeremy's it labs - https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
 
 ##### Systems
+-  Linux Userland TLPI
 -  OSDev
 -  x86 OS
--  Linux Userland TLPI
 
 ##### Distributed Systems / Databases
 -  PingCAP Talent Plan
 -  6.5840
 
-##### Mathematics
--  Pauls online math notes
+
 
 #### 👷 Check out what I'm currently working on
 
