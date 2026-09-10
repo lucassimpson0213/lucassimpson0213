@@ -15,7 +15,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  Homelab
 ---
 <details>
-  <summary>References and Homelab items to consider </summary>
+  <summary>References  </summary>
 
   
 ###### References
@@ -38,7 +38,7 @@ AWS • Kubernetes • Rust • Go • Linux
 
 ---
  <details>
-  <summary>Resources for Systems - Link to MIT Course </summary>
+  <summary>Resources </summary>
   https://pdos.csail.mit.edu/6.828/2021/labs/util.html
 </details>
 
@@ -51,7 +51,7 @@ AWS • Kubernetes • Rust • Go • Linux
 
 ---
  <details>
-  <summary>Resources for Distributed Systems and Databases </summary>
+  <summary>Resources </summary>
   https://pdos.csail.mit.edu/6.828/2021/labs/util.html
 </details>
 
