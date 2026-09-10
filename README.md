@@ -33,13 +33,14 @@ AWS • Kubernetes • Rust • Go • Linux
 ---
 ### Systems
 -  Linux Userland TLPI
--  MIT 6.S081
+-  MIT 6.1810
 -  x86 OS
 
 ---
  <details>
   <summary>Resources </summary>
-  https://pdos.csail.mit.edu/6.828/2021/labs/util.html
+   ##### Links 
+   - https://pdos.csail.mit.edu/6.1810/2025/xv6.html
 </details>
 
 ---
