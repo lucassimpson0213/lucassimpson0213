@@ -13,12 +13,10 @@ AWS • Kubernetes • Rust • Go • Linux
 -  HTTP Server
 -  CS144
 -  Homelab
-<br>
-<br>
-
+---
 <details>
   <summary>References and Homelab items to consider </summary>
-  
+---
 ###### References
 - TLPI Networking Chapters
 - TCP/IP Illustrated
