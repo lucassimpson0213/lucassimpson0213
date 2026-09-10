@@ -60,6 +60,8 @@ AWS • Kubernetes • Rust • Go • Linux
 
 
 #### 👷 Check out what I'm currently working on
+<details>
+  <summary> #### 👷 Check out what I'm currently working on </summary>
 
 - [lucassimpson0213/kind-kubernetes](https://github.com/lucassimpson0213/kind-kubernetes) -  (3 weeks ago)
 - [lucassimpson0213/source-code-tooling](https://github.com/lucassimpson0213/source-code-tooling) - uses markers to replace certain rust code with pascalized verisons of them (1 month ago)
@@ -71,6 +73,8 @@ AWS • Kubernetes • Rust • Go • Linux
 - [lucassimpson0213/nvim-config](https://github.com/lucassimpson0213/nvim-config) -  (4 months ago)
 - [Simpson-Systems/sys-userland-kernel-rust](https://github.com/Simpson-Systems/sys-userland-kernel-rust) - userland kernel work to practice for the real thing, raw memory parsing (5 months ago)
 - [Simpson-Systems/libvirt-cli](https://github.com/Simpson-Systems/libvirt-cli) - repo for the libvirt command line (5 months ago)
+</details>
+
 
 
 
