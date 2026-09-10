@@ -33,13 +33,17 @@ AWS • Kubernetes • Rust • Go • Linux
 ---
 ##### Systems
 -  Linux Userland TLPI
--  OSDev
+-  MIT 6.s081
 -  x86 OS
 
 ##### Distributed Systems / Databases
 -  PingCAP Talent Plan
 -  6.5840
 
+<details>
+  <summary>Resources for Systems - Link to MIT Course </summary>
+  https://pdos.csail.mit.edu/6.828/2021/labs/util.html
+</details>
 
 ---
 #### 👷 Check out what I'm currently working on
