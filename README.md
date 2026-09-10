@@ -5,10 +5,10 @@ AWS • Kubernetes • Rust • Go • Linux
 
 #### My  Current Roadmap
 
-#### Mathematics
+### Mathematics
 -  Pauls Online Math Notes
 
-#### Networking
+### Networking
 -  Jeremy's IT Lab 
 -  HTTP Server
 -  CS144
@@ -31,7 +31,7 @@ AWS • Kubernetes • Rust • Go • Linux
  </details>
 
 ---
-#### Systems
+### Systems
 -  Linux Userland TLPI
 -  MIT 6.S081
 -  x86 OS
@@ -44,7 +44,7 @@ AWS • Kubernetes • Rust • Go • Linux
 
 ---
 
-#### Distributed Systems / Databases
+### Distributed Systems / Databases
 -  PingCAP Talent Plan
 -  6.5840
 
