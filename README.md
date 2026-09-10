@@ -17,6 +17,7 @@ AWS • Kubernetes • Rust • Go • Linux
 <details>
   <summary>References and Homelab items to consider </summary>
 ---
+  
 ###### References
 - TLPI Networking Chapters
 - TCP/IP Illustrated
