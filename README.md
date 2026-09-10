@@ -7,12 +7,12 @@ AWS • Kubernetes • Rust • Go • Linux
 
 ##### Mathematics
 -  Pauls Online Math Notes
--  
+
 ##### Networking
-- Jeremy's IT Lab - https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
-- HTTP Server
+-  Jeremy's IT Lab - https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
+-  HTTP Server
 -  CS144
-- Homelab
+-  Homelab
 
 ###### References
 - TLPI Networking Chapters
