@@ -3,7 +3,7 @@
 
 AWS • Kubernetes • Rust • Go • Linux
 
-#### My  Current Roadmap
+## My  Current Roadmap
 
 ### Mathematics
 -  Pauls Online Math Notes
@@ -59,7 +59,7 @@ AWS • Kubernetes • Rust • Go • Linux
 
 
 
-#### 👷 Check out what I'm currently working on
+### 👷 Check out what I'm currently working on
 <details>
   <summary> Work </summary>
 
