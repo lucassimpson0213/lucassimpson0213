@@ -23,7 +23,8 @@ AWS • Kubernetes • Rust • Go • Linux
 - TCP/IP Illustrated
 - files for jeremy's it labs - https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
 - video link -  https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
-
+- https://www.reddit.com/r/programming/s/WTuNoX6LtW
+- software design 
 ######  Homelab specific items
 - Kubernetes (k3s is fine)
 - Prometheus
