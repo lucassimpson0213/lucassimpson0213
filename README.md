@@ -12,7 +12,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  Jeremy's IT Lab 
 -  HTTP Server
 -  CS144
--  Homelab - ansible and kubernetes
+-  Homelab
 ---
 <details>
   <summary>References  </summary>
@@ -29,6 +29,7 @@ AWS • Kubernetes • Rust • Go • Linux
 - Kubernetes (k3s is fine)
 - Prometheus
 - Grafana
+- Ansible
  </details>
 
 ---
