@@ -12,7 +12,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  Jeremy's IT Lab 
 -  HTTP Server
 -  CS144
--  Homelab
+-  Homelab - ansible and kubernetes
 ---
 <details>
   <summary>References  </summary>
