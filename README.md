@@ -10,7 +10,7 @@ AWS • Kubernetes • Rust • Go • Linux
 
 ### Networking
 -  Jeremy's IT Lab 
--  HTTP Server
+-  HTTP Server - scope with codecrafters
 -  CS144
 -  Homelab
 ---
