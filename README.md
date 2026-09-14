@@ -80,6 +80,16 @@ AWS • Kubernetes • Rust • Go • Linux
 - [Simpson-Systems/libvirt-cli](https://github.com/Simpson-Systems/libvirt-cli) - repo for the libvirt command line (5 months ago)
 </details>
 
+### Homelab Architecture
+<details>
+  <summary>My Homelab</summary>
+
+  - Prometheus
+  - Grafana
+  - Duplicati - local http://127.0.0.1:8200/ngclient/restore and web ui console - https://app.duplicati.com/app/machines
+  - Tailscale
+</details>
+
 
 
 
