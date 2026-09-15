@@ -9,7 +9,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  Pauls Online Math Notes
 
 ### Networking
--  Jeremy's IT Lab 
+-  Jeremy's IT Lab Udemy Course
 -  HTTP Server - scope with codecrafters
 -  CS144
 -  Homelab
@@ -21,8 +21,7 @@ AWS • Kubernetes • Rust • Go • Linux
 ###### References
 - TLPI Networking Chapters
 - TCP/IP Illustrated
-- files for jeremy's it labs - https://drive.google.com/drive/folders/1PwK_jWqfUtOjV7gHt8ODutq9QA5cxCgi?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto
-- video link -  https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
+- udemy course for jeremy's it lab: https://external-teksystems.udemy.com/course/ccna-jitl/learn/lecture/38654656#learning-tools
 - https://www.reddit.com/r/programming/s/WTuNoX6LtW
 - software design 
 ######  Homelab specific items
