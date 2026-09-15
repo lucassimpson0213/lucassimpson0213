@@ -6,7 +6,7 @@ AWS • Kubernetes • Rust • Go • Linux
 ## My  Current Roadmap
 
 ### Mathematics
--  Pauls Online Math Notes
+- algebra course -  https://external-teksystems.udemy.com/course/integralcalc-algebra/
 
 ### Networking
 -  Jeremy's IT Lab Udemy Course
