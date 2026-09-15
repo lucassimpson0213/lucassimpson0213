@@ -26,6 +26,7 @@ AWS • Kubernetes • Rust • Go • Linux
 - https://www.reddit.com/r/programming/s/WTuNoX6LtW
 - software design 
 ######  Homelab specific items
+- certified Kubernetes admin - https://external-teksystems.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074#overview
 - Kubernetes (k3s is fine)
 - Prometheus
 - Grafana
