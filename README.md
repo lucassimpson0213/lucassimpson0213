@@ -35,6 +35,7 @@ AWS • Kubernetes • Rust • Go • Linux
 
 ---
 ### Systems
+-  complete linux admin training course - see above for udemy link
 -  Linux Userland TLPI
 -  MIT 6.1810
 -  x86 OS
