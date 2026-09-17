@@ -12,7 +12,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  Jeremy's IT Lab Udemy Course
 -  HTTP Server - scope with codecrafters
 -  CS144
--  Homelab
+-  Homelab -- requires a design doc
 ---
 <details>
   <summary>References  </summary>
