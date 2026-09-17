@@ -51,9 +51,9 @@ AWS • Kubernetes • Rust • Go • Linux
 ---
 
 ### Distributed Systems / Databases
+- sqlite3 codecrafters
 -  PingCAP Talent Plan
 -  6.5840
--  sqlite3 codecrafters 
 
 
 ---
