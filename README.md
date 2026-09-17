@@ -37,6 +37,7 @@ Ansible → Configuration management
 Kubernetes → Workload scheduling
 Grafana → Observability
 Backups → Recovery
+librenms -> network observation 
  </details>
 
 ---
