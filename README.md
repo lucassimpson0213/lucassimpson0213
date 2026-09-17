@@ -12,7 +12,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  Jeremy's IT Lab Udemy Course
 -  HTTP Server - scope with codecrafters
 -  CS144
--  Homelab -- requires a design doc - icepanel, netbox and ansible and backups with duplicati - https://fvxe9913.cloud.netboxapp.com/
+-  Homelab -- requires a design doc - icepanel, netbox and ansible and backups with duplicati - https://fvxe9913.cloud.netboxapp.com/ - https://netboxlabs.com/blog/getting-started-with-network-automation-netbox-ansible/
 ---
 <details>
   <summary>References  </summary>
