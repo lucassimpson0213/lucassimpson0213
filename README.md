@@ -12,7 +12,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  Jeremy's IT Lab Udemy Course
 -  HTTP Server - scope with codecrafters
 -  CS144
--  Homelab -- requires a design doc - https://structurizr.com/share/1/diagrams#Deployment-Live or use icepanel for auditability https://icepanel.io/
+-  Homelab -- requires a design doc - icepanel, netbox and ansible and backups with duplicati
 ---
 <details>
   <summary>References  </summary>
