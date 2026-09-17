@@ -31,6 +31,12 @@ AWS • Kubernetes • Rust • Go • Linux
 - Prometheus
 - Grafana
 - Ansible
+#### homelab items
+Fleet → Inventory & discovery
+Ansible → Configuration management
+Kubernetes → Workload scheduling
+Grafana → Observability
+Backups → Recovery
  </details>
 
 ---
