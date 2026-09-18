@@ -12,7 +12,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  Jeremy's IT Lab Udemy Course
 -  HTTP Server - scope with codecrafters
 -  CS144
--  Homelab -- requires a design doc -https://fleetdm.com/lp/open-source fleet  ansible and backups with duplicati - http://100.95.142.72:3000/ - 
+-  Homelab -- requires a design doc -https://fleetdm.com/lp/open-source fleet  ansible and backups with duplicati - http://100.95.142.72:3000/ - homepage for homelab
 ---
 <details>
   <summary>References  </summary>
@@ -40,6 +40,16 @@ Backups → Recovery
 librenms -> network observation 
 sempaphore ui - ansible management 
 homepage - ui for all servicez 
+
+### more homelab items
+
+Git → Ansible/Semaphore → machines
+Kubernetes → keeps workloads running
+Grafana/LibreNMS → tells you when something is wrong
+Duplicati → runs backups automatically
+Homepage → gives you one place to reach everything
+
+Then automate OS updates, SMART checks, backup schedules, certificate renewal, container restarts, monitoring/alerts, and routine configuration enforcement. At that point, silence means healthy.
  </details>
 
 ---
