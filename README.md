@@ -12,7 +12,7 @@ AWS • Kubernetes • Rust • Go • Linux
 -  Jeremy's IT Lab Udemy Course
 -  HTTP Server - scope with codecrafters
 -  CS144
--  Homelab -- requires a design doc -https://fleetdm.com/lp/open-source fleet  ansible and backups with duplicati - https://fvxe9913.cloud.netboxapp.com/ - 
+-  Homelab -- requires a design doc -https://fleetdm.com/lp/open-source fleet  ansible and backups with duplicati - http://100.95.142.72:3000/ - 
 ---
 <details>
   <summary>References  </summary>
