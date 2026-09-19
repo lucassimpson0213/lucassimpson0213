@@ -12,7 +12,6 @@ AWS • Kubernetes • Rust • Go • Linux
 -  Jeremy's IT Lab Udemy Course
 -  HTTP Server - scope with codecrafters
 -  CS144
--  Homelab -- requires a design doc -https://fleetdm.com/lp/open-source fleet  ansible and backups with duplicati - http://100.95.142.72:3000/ - homepage for homelab
 ---
 <details>
   <summary>References  </summary>
@@ -55,6 +54,7 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 ---
 ### Systems
 -  complete linux admin training course - see above for udemy link
+-  Homelab -- requires a design doc -https://fleetdm.com/lp/open-source fleet  ansible and backups with duplicati - http://100.95.142.72:3000/ - homepage for homelab
 -  Linux Userland TLPI
 -  MIT 6.1810
 -  x86 OS
