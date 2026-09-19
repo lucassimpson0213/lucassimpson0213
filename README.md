@@ -39,7 +39,7 @@ Grafana → Observability
 Backups → Recovery
 librenms -> network observation 
 sempaphore ui - ansible management 
-homepage - ui for all servicez 
+homepage - ui for all servicez - https://gethomepage.dev/configs/kubernetes/
 
 ### more homelab items
 
