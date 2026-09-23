@@ -21,7 +21,7 @@ AWS • Kubernetes • Rust • Go • Linux
 - TLPI Networking Chapters
 - TCP/IP Illustrated
 - udemy course for jeremy's it lab: https://external-teksystems.udemy.com/course/ccna-jitl/learn/lecture/38654656#learning-tools
-- complete linux admin training course - https://external-teksystems.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/learn/lecture/20147642#overview
+- Linux Foundation Certified Systems administator - https://external-teksystems.udemy.com/course/linux-foundation-certified-systems-administrator-lfcs/
 - https://www.reddit.com/r/programming/s/WTuNoX6LtW
 - software design 
 ######  Homelab specific items
@@ -53,7 +53,7 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 
 ---
 ### Systems
--  complete linux admin training course - see above for udemy link
+-   LFCSA - see above for udemy link
 -  Homelab -- requires a design doc -https://fleetdm.com/lp/open-source fleet  ansible and backups with duplicati - http://100.95.142.72:3000/ - homepage for homelab
 -  Linux Userland TLPI
 -  MIT 6.1810
