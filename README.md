@@ -54,7 +54,7 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 ---
 ### Systems
 -   LFCSA - see above for udemy link
--  Homelab -- requires a design doc -https://fleetdm.com/lp/open-source fleet  ansible and backups with duplicati - http://100.95.142.72:3000/ - homepage for homelab - read practice of system and network administration book
+-  Homelab -- use sempahore to schedule checks for everything  ansible and backups with duplicati - http://100.95.142.72:3000/ - homepage for homelab - read practice of system and network administration book
 -  Kubernetes
 -  Linux Userland TLPI
 -  MIT 6.1810
