@@ -71,6 +71,7 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 ---
 
 ### Distributed Systems / Databases
+- https://www.udemy.com/course/sql-and-postgresql
 - sqlite3 codecrafters or https://skyzh.github.io/mini-lsm/ or build your own x 
 -  PingCAP Talent Plan
 -  6.5840
