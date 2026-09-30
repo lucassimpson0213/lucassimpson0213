@@ -54,8 +54,7 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 ---
 ### Systems
 -   LFCSA - see above for udemy link
--  Homelab -- use sempahore to schedule checks for everything  ansible and backups with duplicati - http://100.95.142.72:3000/ - homepage for homelab - read practice of system and network administration book
--  Kubernetes
+-  Homelab 
 -  Linux Userland TLPI
 -  MIT 6.1810
 -  x86 OS
