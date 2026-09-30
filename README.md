@@ -7,7 +7,8 @@ AWS • Kubernetes • Rust • Go • Linux
 
 ### Mathematics
 - algebra course -  https://external-teksystems.udemy.com/course/integralcalc-algebra/
-
+- Discrete Mathematics — Miran Fatta
+- Mastering Data Structures & Algorithms using C and C++ — Abdul Bari⁠￼: Covers implementing and analyzing data structures; the C/C++ focus fits your systems interests. 
 ### Networking
 -  Jeremy's IT Lab Udemy Course/ boson netsim onl8y 59 dollars for 3 months
 -  HTTP Server - scope with codecrafters
