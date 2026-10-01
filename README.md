@@ -55,7 +55,7 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 
 ---
 ### Systems
--  Homelab 
+-  Homelab - read google sre book 
 -  Linux Userland TLPI
 -  MIT 6.1810
 -  x86 OS
