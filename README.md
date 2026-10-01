@@ -55,7 +55,7 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 
 ---
 ### Systems
--  Homelab - read google sre book - get this switch for anniversary - https://mikrotik.com/product/crs326_24g_2s_in
+-  Homelab - read google sre book - get this switch for anniversary - https://mikrotik.com/product/crs326_24g_2s_in - https://www.amazon.com/MikroTik-CRS326-24G-2S-in/dp/B087X9D1G2/ref=sr_1_1?crid=25W6JZNJ7S2NJ&dib=eyJ2IjoiMSJ9.BikGnieHs64JFDdpDsoo5ACfSOS6ParQJ5IzkNroJUAuI-eeVWz8Nfa05mbPOrPa-0AkpbzaFC_DtnFx_s9hE_s-o0XSGrE8Epm8Y6qaYgdsAuv1bZgkATIYu7_6RufDtMkv990cHXiZTekfMmMXbS_KvLSXfrQrPCS4Luvj2TeKCZMY49f4pL7txEq1QbjF468xdcY6eV5XZIFMhqGvh9UM7RwnO5XVGlt19fUp5jQ.95sfVkcoZ1pNO5BOTtOmSH41naqD6Y51-3wFp1onWTA&dib_tag=se&keywords=CRS326-24G-2S%2BIN&qid=1790877604&sprefix=crs326-24g-2s%2Bin%2Caps%2C231&sr=8-1
 -  Linux Userland TLPI
 -  MIT 6.1810
 -  x86 OS
