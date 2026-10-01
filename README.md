@@ -55,7 +55,6 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 
 ---
 ### Systems
--   LFCSA - see above for udemy link
 -  Homelab 
 -  Linux Userland TLPI
 -  MIT 6.1810
