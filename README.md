@@ -5,6 +5,14 @@ AWS • Kubernetes • Rust • Go • Linux
 
 ## My  Current Roadmap
 
+### homelab
+- [ ] Networking — VLANs, DNS, HTTPS, Tailscale, microtik router and switch
+- [ ] Identity — SSO, multi-user access, RBAC
+- [ ] Deployment — Ansible, Semaphore, K3s
+- [ ] Observability — monitoring, logging, alerts
+- [ ] Reliability — backups, restore testing, recovery
+- [ ] Applications — Mealie, Actual Budget, Homelab Dashboard
+
 ### Mathematics
 - algebra course -  https://external-teksystems.udemy.com/course/integralcalc-algebra/
 - trig/precalc
