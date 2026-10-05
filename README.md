@@ -16,6 +16,8 @@ AWS • Kubernetes • Rust • Go • Linux
 ### Mathematics
 - algebra course -  https://external-teksystems.udemy.com/course/integralcalc-algebra/
 - trig/precalc
+- calc 1
+- probability
 - Discrete Mathematics — Miran Fatta
 - Mastering Data Structures & Algorithms using C and C++ — Abdul Bari⁠￼: Covers implementing and analyzing data structures; the C/C++ focus fits your systems interests. 
 ### Networking
