@@ -11,7 +11,7 @@ AWS • Kubernetes • Rust • Go • Linux
 - [ ] Deployment — Ansible, Semaphore, K3s
 - [ ] Observability — monitoring, logging, alerts
 - [ ] Reliability — backups, restore testing, recovery
-- [ ] Applications — Mealie, Actual Budget, Homelab Dashboard
+- [ ] Applications — Mealie, Actual Budget, Homelab Dashboard, jellyfin
 
 ### Mathematics
 - algebra course -  https://external-teksystems.udemy.com/course/integralcalc-algebra/
