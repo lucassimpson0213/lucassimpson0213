@@ -6,7 +6,7 @@ AWS • Kubernetes • Rust • Go • Linux
 ## My  Current Roadmap
 
 ### homelab
-- [ ] Networking — VLANs, DNS, HTTPS, Tailscale, microtik router and switch
+- [ ] Networking — VLANs, DNS, HTTPS, Tailscale, microtik router and switch, http://100.95.142.72:3000/
 - [ ] Identity — SSO, multi-user access, RBAC
 - [ ] Deployment — Ansible, Semaphore, K3s
 - [ ] Observability — monitoring, logging, alerts
