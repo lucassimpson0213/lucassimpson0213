@@ -19,7 +19,8 @@ AWS • Kubernetes • Rust • Go • Linux
 - calc 1
 - probability
 - Discrete Mathematics — Miran Fatta
-- Mastering Data Structures & Algorithms using C and C++ — Abdul Bari⁠￼: Covers implementing and analyzing data structures; the C/C++ focus fits your systems interests. 
+- Mastering Data Structures & Algorithms using C and C++ — Abdul Bari⁠￼: Covers implementing and analyzing data structures; the C/C++ focus fits your systems interests.
+- problem generator https://algebramaker.com/exercises/calculus/p-series
 ### Networking
 -  Jeremy's IT Lab Udemy Course/ boson netsim onl8y 59 dollars for 3 months
 -  HTTP Server - scope with codecrafters
