@@ -6,7 +6,7 @@ AWS • Kubernetes • Rust • Go • Linux
 ## My  Current Roadmap
 
 ### homelab
-- K3's cluster - https://www.boot.dev/lessons/402f9141-74ef-4933-abb1-5be6404b4b83
+- K3's cluster - https://external-teksystems.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074?start=0#overview
 ### Mathematics
 - algebra course -  https://external-teksystems.udemy.com/course/integralcalc-algebra/
 - trig/precalc
