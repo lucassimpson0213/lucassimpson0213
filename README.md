@@ -7,6 +7,7 @@ AWS • Kubernetes • Rust • Go • Linux
 
 ### homelab
 - K3's cluster - https://external-teksystems.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074?start=0#overview
+- https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/
 ### Mathematics
 - algebra course -  https://external-teksystems.udemy.com/course/integralcalc-algebra/
 - trig/precalc
