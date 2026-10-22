@@ -17,6 +17,7 @@ AWS • Kubernetes • Rust • Go • Linux
 - Mastering Data Structures & Algorithms using C and C++ — Abdul Bari⁠￼: Covers implementing and analyzing data structures; the C/C++ focus fits your systems interests.
 - problem generator https://algebramaker.com/exercises/calculus/p-series
 ### Networking
+- version control your cisco.cfg files and use vscode extension https://github.com/Aswertus/cisco-lsp
 -  Jeremy's IT Lab Udemy Course/ boson netsim onl8y 59 dollars for 3 months - subnetting practice https://subnetting.net/Subnetting.aspx?mode=practice
 -  HTTP Server - scope with codecrafters
 -  CS144
