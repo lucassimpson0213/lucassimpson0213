@@ -62,6 +62,7 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 
 ---
 ### Systems
+-  maybe https://sadservers.com/scenarios
 -  Homelab - http://100.65.51.13:3000/ 
 -  Linux Userland TLPI
 -  computer systems a programmers perspective
