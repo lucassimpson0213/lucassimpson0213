@@ -9,6 +9,7 @@ https://youtu.be/ZuIQurh_kDk?is=GPjMbUQxp_pYX90G
 - K3's cluster - https://external-teksystems.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074?start=0#overview
 - https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/
 ### Mathematics
+- The plan is to just do tons of reps with algebra maker 
 - algebra course -  https://external-teksystems.udemy.com/course/integralcalc-algebra/ - do practice exams 
 - trig/precalc
 - calc 1
