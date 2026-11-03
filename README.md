@@ -10,10 +10,7 @@ https://youtu.be/ZuIQurh_kDk?is=GPjMbUQxp_pYX90G
 - https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/
 ### Mathematics
 - The plan is to just do tons of reps with algebra maker or ixl https://pro.ixl.com/math/adv-algebra
-- algebra course -  https://external-teksystems.udemy.com/course/integralcalc-algebra/ - do practice exams 
-- trig/precalc
-- calc 1
-- probability
+- algebra course -  https://external-teksystems.udemy.com/course/integralcalc-algebra/ and trig course krista king - do practice exams 
 - Discrete Mathematics — Miran Fatta
 - Mastering Data Structures & Algorithms using C and C++ — Abdul Bari⁠￼: Covers implementing and analyzing data structures; the C/C++ focus fits your systems interests.
 - problem generator https://algebramaker.com/exercises/calculus/p-series
