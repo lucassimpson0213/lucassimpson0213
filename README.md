@@ -84,6 +84,10 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 -  PingCAP Talent Plan
 -  6.5840
 
+### Computer Science
+- Programming in haskell book
+- Continuing interpreter for lox in rust
+
 
 ---
  <details>
