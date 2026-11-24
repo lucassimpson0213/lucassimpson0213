@@ -77,13 +77,29 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 </details>
 
 ---
-
+Databases
 ### Distributed Systems / Databases
-- https://www.udemy.com/course/sql-and-postgresql
-- sqlite3 codecrafters or https://skyzh.github.io/mini-lsm/ or build your own x
-- https://15445.courses.cs.cmu.edu/fall2026/syllabus.html
--  PingCAP Talent Plan
--  6.5840
+- SQL and PostgreSQL fundamentals - https://www.udemy.com/course/sql-and-postgresql
+- CodeCrafters SQLite - https://codecrafters.io/challenges/sqlite
+- Build a persistent key-value store - file I/O, serialization, indexing, WAL
+- Mini-LSM (Rust) - https://skyzh.github.io/mini-lsm/
+- CMU 15-445 (BusTub) - https://15445.courses.cs.cmu.edu/fall2026/
+- PingCAP Talent Plan - https://github.com/pingcap/talent-plan
+  - TinySQL - SQL parsing, query planning, execution
+  - TinyKV - distributed storage, replication, transactions
+- MIT 6.5840 - https://pdos.csail.mit.edu/6.5840/
+  - MapReduce
+  - Raft consensus
+  - Fault-tolerant key-value store
+  - Sharded key-value store
+- PostgreSQL Homelab Project
+  - Deploy PostgreSQL
+  - Automate backups and point-in-time recovery
+  - Configure replication
+  - Monitor with Prometheus and Grafana
+  - Automate restore verification with GitHub Actions
+  - Simulate failures and test recovery
+- Capstone - Build a distributed key-value database with persistence, replication, and automated recovery tests
 
 ### Computer Science
 - Programming in haskell book
