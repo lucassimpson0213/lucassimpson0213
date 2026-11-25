@@ -64,7 +64,7 @@ Then automate OS updates, SMART checks, backup schedules, certificate renewal, c
 -  Homelab - http://100.65.51.13:3000/ 
 -  Linux Userland TLPI - capstone is build your own docker - https://blog.lizzie.io/linux-containers-in-500-loc.html
 -  OSTEP - pretty cool linux internals https://kernel-internals.org/categories/storage-io/ - https://github.com/remzi-arpacidusseau/ostep-projects?utm_source=chatgpt.com
--  computer systems a programmers perspective
+-  Computer Architecture: A Quantitative Approach 
 -  MIT 6.1810
 -  x86 OS
 
