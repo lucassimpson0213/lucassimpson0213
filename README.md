@@ -105,6 +105,11 @@ Databases
 - Programming in haskell book
 - Continuing interpreter for lox in rust
 
+### Practical Projects
+- Plugin in neovim - https://programmingheadache.com/2026/03/01/my-neovim-deep-dive-40-videos-from-basics-to-advanced/
+- Source Code tooling in typescript
+
+
 
 ---
  <details>
